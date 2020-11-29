@@ -1,7 +1,7 @@
 
 # Employee Directory 
 ## Description
-Using react, I've created an employee directory that allows you to see a list of employee's information and sort them alphabetically by name.
+Using react, I've created an employee directory that allows you to see a list of employee's information and sort them alphabetically by name. [Link to deployed app](https://react-employee-directory1312.herokuapp.com/)
 ## Table of Contents
 * [Installation Instructions](#installation)
 * [Usage Info](#usage)
